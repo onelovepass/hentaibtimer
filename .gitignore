@@ -1,0 +1,9 @@
+botfiles
+userbase
+/log
+/run.sh
+.env
+vendor
+bin
+.bundle
+.lock
